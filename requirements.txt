@@ -2,6 +2,9 @@ numpy
 pandas
 matplotlib
 seaborn
+scipy
+statsmodels
 scikit-learn
 xgboost
+optuna
 jupyter
